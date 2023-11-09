@@ -1,3 +1,3 @@
-# **BloomTech Learning**
+# **BloomTech Project Learning**
 
-My work at Bloomtech
+My full stack web development projects at Bloomtech.
